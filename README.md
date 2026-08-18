@@ -1,9 +1,6 @@
 <!-- 🌸 Pixel Art Hero -->
 <p align="center">
-  <p align="center">
-<p align="center">
-  <img src="animasau\assets\SECRET_APO.gif" width="100%" height="300" alt="Pixel art cityscape"/>
-</p></p>
+  <img src="./assets/SECRET_APO.gif" width="100%" height="350" alt="Pixel art scene"/>
 </p>
 
 <!-- ✦ Welcome -->
