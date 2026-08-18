@@ -1,8 +1,9 @@
 <!-- 🌸 Pixel Art Hero -->
 <p align="center">
   <p align="center">
-  <img src="./assets/pixelscapes.gif" height="150" alt="Pixel art cityscape"/>
-</p>
+<p align="center">
+  <img src="./assets/pixelscapes.gif" width="100%" height="250" alt="Pixel art cityscape"/>
+</p></p>
 </p>
 
 <!-- ✦ Welcome -->
