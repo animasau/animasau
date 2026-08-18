@@ -154,14 +154,14 @@
 <!-- 🌸 Footer -->
 <div align="center">
 
-✦ ───────────────────────────── ✦
+✦ ──────────────────────────────────────────────────────────────── ✦
 
-<img src="./assets/Flower_Power_Plush_Pillow.gif" width="120"/>
+<img src="./assets/Flower_Power_Plush_Pillow.gif" width="200"/>
 
-<h3>˚₊‧꒰ა Thanks for visiting ໒꒱ ‧₊˚</h3>
+<h2>˚₊‧꒰ა Thanks for visiting ໒꒱ ‧₊˚</h2>
 
-**Keep coding • Keep creating • Keep dreaming ♡**
+### Keep coding • Keep creating • Keep dreaming ♡
 
-✦ ───────────────────────────── ✦
+✦ ──────────────────────────────────────────────────────────────── ✦
 
 </div>
