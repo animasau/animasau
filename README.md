@@ -151,18 +151,17 @@
 </p>
 
 ---
-
 <!-- 🌸 Footer -->
-<p align="center">
+<div align="center">
 
 ✦ ───────────────────────────── ✦
 
 <img src="./assets/Flower_Power_Plush_Pillow.gif" width="120"/>
 
-### ˚₊‧꒰ა Thanks for visiting ໒꒱ ‧₊˚
+<h3>˚₊‧꒰ა Thanks for visiting ໒꒱ ‧₊˚</h3>
 
 **Keep coding • Keep creating • Keep dreaming ♡**
 
 ✦ ───────────────────────────── ✦
 
-</p>
+</div>
