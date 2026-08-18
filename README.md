@@ -2,7 +2,7 @@
 <p align="center">
   <p align="center">
 <p align="center">
-  <img src="./assets/pixelscapes.gif" width="100%" height="300" alt="Pixel art cityscape"/>
+  <img src="animasau\assets\SECRET_APO.gif" width="100%" height="300" alt="Pixel art cityscape"/>
 </p></p>
 </p>
 
