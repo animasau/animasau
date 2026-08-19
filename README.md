@@ -21,6 +21,7 @@
 <p align="left">
   <img src="./assets/Alpha pattern.jpg" width="450" alt="Pixel art scene"/>
 </p>
+
 ---
 
 <!-- 🌷 About Me -->
