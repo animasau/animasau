@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/floral_border_transparent.png" width="600" alt="Floral border"/>
+  <img src="./assets/floral_border_transparent.png" width="100%" alt="Floral border"/>
 </p>
 <!-- ✦ Welcome -->
 <p align="center">
