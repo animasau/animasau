@@ -19,8 +19,8 @@
 
 <!-- 🌸 Pixel Art Hero -->
 <p align="center">
-  <img src="./assets/Alpha pattern.jpg" width="100%" alt="Pixel art scene"/>
-</p>
+  <img src="./assets/Alpha pattern.jpg" width="450" alt="Pixel art scene"/>
+</p>>
 
 ---
 
