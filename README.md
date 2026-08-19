@@ -7,17 +7,17 @@
   Computer Science Student • AI • Web • Creative Tech
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Creating_Magic-ff69b4?style=flat-square" alt="Status"/>
+  <img src="https://img.shields.io/badge/Focus-AI_%26_Software-purple?style=flat-square" alt="Focus"/>
+  <img src="https://img.shields.io/badge/Major-B.Tech_CSIT-blue?style=flat-square" alt="Major"/>
+</p>
+
 ---
 
 <!-- 🌸 Pixel Art Hero -->
 <p align="center">
   <img src="./assets/SECRET_APO.gif" width="100%" alt="Pixel art scene"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Creating_Magic-ff69b4?style=flat-square" alt="Status"/>
-  <img src="https://img.shields.io/badge/Focus-AI_%26_Software-purple?style=flat-square" alt="Focus"/>
-  <img src="https://img.shields.io/badge/Major-B.Tech_CSIT-blue?style=flat-square" alt="Major"/>
 </p>
 
 ---
