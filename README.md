@@ -99,7 +99,7 @@
 
 <!-- 💌 Connect With Me -->
 ## 💌 Connect With Me
-<img src=".\assets\kiki4.png" width="220" align="right"/>
+<img src=".\assets\kiki4.png" width="320" align="right"/>
 
 <p align="center">
 
