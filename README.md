@@ -1,8 +1,10 @@
 <!-- ✦ Welcome -->
 <h1 align="center">✦ WELCOME TO MY DIGITAL CORNER ✦</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20To%20My%20Digital%20Corner&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=40" alt="Welcome banner"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=32&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=%E2%9C%A6+WELCOME+TO+MY+DIGITAL+CORNER+%E2%9C%A6" alt="Welcome heading"/>
 </p>
+
 <p align="center">
   <b>ANIMA SAU</b>
   <br/>
