@@ -1,6 +1,8 @@
 <!-- ✦ Welcome -->
 <h1 align="center">✦ WELCOME TO MY DIGITAL CORNER ✦</h1>
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20To%20My%20Digital%20Corner&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=40" alt="Welcome banner"/>
+</p>
 <p align="center">
   <b>ANIMA SAU</b>
   <br/>
