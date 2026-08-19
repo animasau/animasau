@@ -7,6 +7,8 @@
   Computer Science Student • AI • Web • Creative Tech
 </p>
 
+---
+
 <!-- 🌸 Pixel Art Hero -->
 <p align="center">
   <img src="./assets/SECRET_APO.gif" width="100%" alt="Pixel art scene"/>
