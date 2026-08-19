@@ -19,7 +19,7 @@
 
 <!-- 🌸 Pixel Art Hero -->
 <p align="center">
-  <img src="./assets/pixelscapes.gif" width="100%" alt="Pixel art scene"/>
+  <img src="./assets/Alpha pattern.jpg" width="100%" alt="Pixel art scene"/>
 </p>
 
 ---
