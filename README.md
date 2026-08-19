@@ -1,8 +1,3 @@
-<!-- 🌸 Pixel Art Hero -->
-<p align="center">
-  <img src="./assets/SECRET_APO.gif" width="100%" alt="Pixel art scene"/>
-</p>
-
 <!-- ✦ Welcome -->
 <h1 align="center">✦ WELCOME TO MY DIGITAL CORNER ✦</h1>
 
@@ -10,6 +5,11 @@
   <b>ANIMA SAU</b>
   <br/>
   Computer Science Student • AI • Web • Creative Tech
+</p>
+
+<!-- 🌸 Pixel Art Hero -->
+<p align="center">
+  <img src="./assets/SECRET_APO.gif" width="100%" alt="Pixel art scene"/>
 </p>
 
 <p align="center">
