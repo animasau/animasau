@@ -20,7 +20,7 @@
 
 <!-- 🌸 Pixel Art Hero -->
 <p align="center">
-  <img src="./assets/Commissions.gif" width="100%" alt="Pixel art scene"/>
+  <img src="./assets/pixelscapes.gif" width="100%" alt="Pixel art scene"/>
 </p>
 
 ---
