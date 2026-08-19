@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Creating_Magic-8C222F?style=flat-square" alt="Status"/>
-  <img src="https://img.shields.io/badge/Focus-AI_%26_Software-6F6073?style=flat-square" alt="Focus"/>
-  <img src="https://img.shields.io/badge/Major-B.Tech_CSIT-262629?style=flat-square" alt="Major"/>
+  <img src="https://img.shields.io/badge/Status-Creating_Magic-ff69b4?style=flat-square" alt="Status"/>
+  <img src="https://img.shields.io/badge/Focus-AI_%26_Software-purple?style=flat-square" alt="Focus"/>
+  <img src="https://img.shields.io/badge/Major-B.Tech_CSIT-blue?style=flat-square" alt="Major"/>
 </p>
 
 ---
@@ -99,7 +99,7 @@
 
 <!-- 💌 Connect With Me -->
 ## 💌 Connect With Me
-<img src=".\assets\kiki3.png" width="320" align="right"/>
+<img src="./assets/KAttAKIN.gif" width="70" align="right"/>
 
 <p align="center">
 
@@ -119,10 +119,6 @@
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 
-</p>
-
-<p align="center">
-  🌷 <i>Let's connect, build, and create something wonderful!</i> 🌷
 </p>
 
 <p align="center">
