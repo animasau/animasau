@@ -154,7 +154,7 @@
 
 ✦ ────────────────────────────────────────────────────────────────────────────────── ✦
 
-<img src="./assets/srilp.gif" width="500"/>
+<img src="./assets/thankyou_anime.gif" width="300"/>
 
 <h2>˚₊‧꒰ა Thanks for visiting ໒꒱ ‧₊˚</h2>
 
