@@ -56,7 +56,7 @@
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="./assets/mac_sticker.png" width="210" align="right"/>
+  <img src="./assets/mac_sticker.png" width="250" align="right"/>
 </p>
 
 ### 💻 Languages
