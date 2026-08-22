@@ -154,7 +154,7 @@
 
 ✦ ────────────────────────────────────────────────────────────────────────────────── ✦
 
-<img src="./assets/thankyou_blue.gif" width="220"/>
+<img src="./assets/thankyou_brown.gif" width="220"/>
 
 <h2>˚₊‧꒰ა Thanks for visiting ໒꒱ ‧₊˚</h2>
 
