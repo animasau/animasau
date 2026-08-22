@@ -100,7 +100,7 @@
 
 <!-- 💌 Connect With Me -->
 ## 💌 Connect With Me
-<img src="./assets/KAttAKIN.gif" width="70" align="right"/>
+<img src="./assets/kawaii2.gif" width="70" align="right"/>
 
 <p align="center">
 
@@ -113,11 +113,11 @@
   </a>
 
   <a href="https://www.instagram.com/lalina2992/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="./assets/massege.gif" height="40" alt="Instagram"/>
   </a>
 
   <a href="mailto:sauanima23@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="./assets/massege.gif" height="40" alt="Email"/>
   </a>
 
 </p>
