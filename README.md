@@ -26,6 +26,7 @@
 <!-- 🌷 About Me -->
 ## 🌷 About Me
 <img src="./assets/earbuds_coffee_joined.png" width="120" align="right"/>
+
 - 👩🏻‍💻 Computer Science Student
 - 🤖 Exploring AI & Machine Learning
 - 🌐 Building Web Projects
