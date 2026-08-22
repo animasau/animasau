@@ -153,7 +153,7 @@
 
 ✦ ────────────────────────────────────────────────────────────────────────────────── ✦
 
-<img src="./assets/Flower_Power_Plush_Pillow.gif" width="200"/>
+<img src="./assets/srilp.gif" width="500"/>
 
 <h2>˚₊‧꒰ა Thanks for visiting ໒꒱ ‧₊˚</h2>
 
