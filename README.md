@@ -19,8 +19,8 @@
 
 <!-- 🌸 Pixel Art Hero -->
 <p align="center">
-  <img src="./assets/mifi_stars_joined.png" height="220" alt="Pixel art scene"/>
-</p>
+  <img src="./assets/mifi_stars_joined.png" width="1000" alt="Pixel art scene"/>
+</p>>
 
 ---
 
