@@ -1,7 +1,6 @@
 <!-- ✦ Welcome -->
 <p align="center">
-  <img src="./assets/welcome_text_transparent.png" width="500" alt="Welcome heading"/>
-</p>
+<img src="./assets/welcome_text_centered.png" width="500" alt="Welcome heading"/></p>
 
 <p align="center">
   <b>ANIMA SAU</b>
