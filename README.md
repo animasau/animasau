@@ -10,9 +10,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Creating_Magic-ff69b4?style=flat-square" alt="Status"/>
-  <img src="https://img.shields.io/badge/Focus-AI_%26_Software-purple?style=flat-square" alt="Focus"/>
-  <img src="https://img.shields.io/badge/Major-B.Tech_CSIT-blue?style=flat-square" alt="Major"/>
+ <img src="https://img.shields.io/badge/Status-Creating_Magic-ff69b4?style=flat-square&labelColor=000000" alt="Status"/>
+<img src="https://img.shields.io/badge/Focus-AI_%26_Software-ff69b4?style=flat-square&labelColor=000000" alt="Focus"/>
+<img src="https://img.shields.io/badge/Major-B.Tech_CSIT-ff69b4?style=flat-square&labelColor=000000" alt="Major"/>
 </p>
 
 ---
