@@ -100,27 +100,20 @@
 
 <!-- 💌 Connect With Me -->
 ## 💌 Connect With Me
-<img src="./assets/kawaii2.gif" width="70" align="right"/>
 
-<p align="center">
-
-  <a href="https://github.com/animasau">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/anima-sau-a72179303/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-
-  <a href="https://www.instagram.com/lalina2992/">
-    <img src="./assets/massege.gif" height="40" alt="Instagram"/>
-  </a>
-
-  <a href="mailto:sauanima23@gmail.com">
-    <img src="./assets/massege.gif" height="40" alt="Email"/>
-  </a>
-
-</p>
+<table align="center" cellspacing="0" cellpadding="0" border="0">
+  <tr>
+    <td valign="middle" style="padding:0; margin:0;">
+      <img src="./assets/massege.gif" width="340"/>
+    </td>
+    <td valign="middle" style="padding:0; margin:0;">
+      <a href="https://github.com/animasau"><img src="./assets/github_badge.png" width="40"/></a><br/>
+      <a href="https://www.linkedin.com/in/anima-sau-a72179303/"><img src="./assets/linkedin_badge.png" width="40"/></a><br/>
+      <a href="https://www.instagram.com/lalina2992/"><img src="./assets/instagram_badge.png" width="40"/></a><br/>
+      <a href="mailto:sauanima23@gmail.com"><img src="./assets/email_badge.png" width="40"/></a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   🌷 <i>Let's connect, build, and create something wonderful!</i> 🌷
