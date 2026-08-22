@@ -104,13 +104,13 @@
 <table align="center" cellspacing="0" cellpadding="0" border="0">
   <tr>
     <td valign="middle" style="padding:0; margin:0;">
-      <img src="./assets/massege.gif" width="500"/>
+      <img src="./assets/massege.gif" width="340"/>
     </td>
     <td valign="middle" style="padding:0; margin:0;">
-      <a href="https://github.com/animasau"><img src="./assets/github_badge.png" width="55"/></a><br/>
-      <a href="https://www.linkedin.com/in/anima-sau-a72179303/"><img src="./assets/linkedin_badge.png" width="55"/></a><br/>
-      <a href="https://www.instagram.com/lalina2992/"><img src="./assets/instagram_badge.png" width="55"/></a><br/>
-      <a href="mailto:sauanima23@gmail.com"><img src="./assets/email_badge.png" width="55"/></a>
+      <a href="https://github.com/animasau"><img src="./assets/github_badge.png" width="40"/></a><br/>
+      <a href="https://www.linkedin.com/in/anima-sau-a72179303/"><img src="./assets/linkedin_badge.png" width="40"/></a><br/>
+      <a href="https://www.instagram.com/lalina2992/"><img src="./assets/instagram_badge.png" width="40"/></a><br/>
+      <a href="mailto:sauanima23@gmail.com"><img src="./assets/email_badge.png" width="40"/></a>
     </td>
   </tr>
 </table>
