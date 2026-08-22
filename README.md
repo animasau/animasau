@@ -1,6 +1,6 @@
 <!-- ✦ Welcome -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=32&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=%E2%9C%A6+WELCOME+TO+MY+DIGITAL+CORNER+%E2%9C%A6" alt="Welcome heading"/>
+  <img src="./assets/welcome_text_transparent.png" width="500" alt="Welcome heading"/>
 </p>
 
 <p align="center">
