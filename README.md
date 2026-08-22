@@ -53,7 +53,7 @@
 
 <!-- 💻 Tech Stack -->
 ## 💻 Tech Stack
-<img src="./assets/mac_sticker.png" width="150" align="right"/>
+<img src="./assets/mac_sticker.png" width="210" align="right"/>
 
 ### ✦ Languages
 
