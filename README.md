@@ -55,31 +55,31 @@
 
 ## 💻 Tech Stack
 
-<table>
-<tr>
+<table border="0" cellpadding="0" cellspacing="0" width="100%" style="border:none;">
+<tr style="border:none;">
 
-<td valign="top" width="78%">
+<td valign="top" width="78%" style="border:none;">
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,c,python,js,php,html,css,react,opencv,tensorflow,mysql,git,github,vscode,jupyter" height="42"/>
+<img src="https://skillicons.dev/icons?i=java,c,python,js,php,html,css,react,opencv,tensorflow,mysql,git,github,vscode,discord,jupyter" height="42"/>
 </p>
 
 <br/>
 
 <p>
-<img src="https://img.shields.io/badge/Machine%20Learning-102A43?style=for-the-badge" height="28"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge" height="28"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/Pandas-130654?style=for-the-badge&logo=pandas&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" height="28"/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" height="28"/>
+<img src="https://img.shields.io/badge/MACHINE%20LEARNING-102A43?style=for-the-badge" height="28"/>
+<img src="https://img.shields.io/badge/DEEP%20LEARNING-FF6F00?style=for-the-badge" height="28"/>
+<img src="https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/PANDAS-130654?style=for-the-badge&logo=pandas&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/MATPLOTLIB-11557C?style=for-the-badge" height="28"/>
+<img src="https://img.shields.io/badge/SEABORN-4C72B0?style=for-the-badge" height="28"/>
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge" height="28"/>
 </p>
 
 </td>
 
-<td valign="middle" width="22%" align="center">
+<td valign="middle" width="22%" align="center" style="border:none;">
 
 <img src="./assets/mac_sticker.png" width="250" alt="Retro computer sticker"/>
 
