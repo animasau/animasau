@@ -57,64 +57,34 @@
 
 <table>
 <tr>
+
 <td valign="top" width="78%">
 
-### 💻 Languages
-
 <p>
-<img src="https://skillicons.dev/icons?i=java,c,python,js,php" height="45"/>
+<img src="https://skillicons.dev/icons?i=java,c,python,js,php,html,css,react,opencv,tensorflow,mysql,git,github,vscode,jupyter" height="42"/>
 </p>
 
-### 🤖 AI / Machine Learning
+<br/>
 
 <p>
-<img src="https://skillicons.dev/icons?i=opencv,tensorflow" height="45"/>
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/Machine%20Learning-102A43?style=flat-square" height="25"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat-square" height="25"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" height="25"/>
-</p>
-
-### 📊 Data Science
-
-<p>
-<img src="https://skillicons.dev/icons?i=python" height="45"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/Pandas-130654?style=flat-square&logo=pandas&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" height="25"/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square" height="25"/>
-</p>
-
-### 🎨 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react" height="45"/>
-</p>
-
-### 🗄️ Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql" height="45"/>
-<img src="https://img.shields.io/badge/SQL-336791?style=flat-square" height="25"/>
-</p>
-
-### 🛠️ Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" height="45"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-102A43?style=for-the-badge" height="28"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge" height="28"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Pandas-130654?style=for-the-badge&logo=pandas&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" height="28"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" height="28"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge" height="28"/>
 </p>
 
 </td>
 
-<td valign="top" width="22%" align="center">
-
-<br><br><br>
+<td valign="middle" width="22%" align="center">
 
 <img src="./assets/mac_sticker.png" width="250" alt="Retro computer sticker"/>
 
 </td>
+
 </tr>
 </table>
 
