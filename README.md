@@ -55,16 +55,13 @@
 
 ## 💻 Tech Stack
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%" style="border:none;">
-<tr style="border:none;">
-
-<td valign="top" width="78%" style="border:none;">
+<table border="0" width="100%">
+<tr>
+<td width="78%" valign="top" style="border: none;">
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,c,python,js,php,html,css,react,opencv,tensorflow,mysql,git,github,vscode,discord,jupyter" height="42"/>
+<img src="https://skillicons.dev/icons?i=java,c,cpp,python,js,php,html,css,react,opencv,tensorflow,mysql,git,github,vscode,discord,jupyter" height="42"/>
 </p>
-
-<br/>
 
 <p>
 <img src="https://img.shields.io/badge/MACHINE%20LEARNING-102A43?style=for-the-badge" height="28"/>
@@ -79,7 +76,7 @@
 
 </td>
 
-<td valign="middle" width="22%" align="center" style="border:none;">
+<td width="22%" align="center" valign="middle" style="border: none;">
 
 <img src="./assets/mac_sticker.png" width="250" alt="Retro computer sticker"/>
 
@@ -87,6 +84,8 @@
 
 </tr>
 </table>
+
+<hr>
 
 ---
 
