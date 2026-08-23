@@ -55,37 +55,57 @@
 
 ## 💻 Tech Stack
 
-<table border="0" width="100%">
-<tr>
-<td width="78%" valign="top" style="border: none;">
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,c,cpp,python,js,php,html,css,react,opencv,tensorflow,mysql,git,github,vscode,discord,jupyter" height="42"/>
+<p align="center">
+  <img src="./assets/mac_sticker.png" width="250" align="right"/>
 </p>
 
+### 💻 Languages
 <p>
-<img src="https://img.shields.io/badge/MACHINE%20LEARNING-102A43?style=for-the-badge" height="28"/>
-<img src="https://img.shields.io/badge/DEEP%20LEARNING-FF6F00?style=for-the-badge" height="28"/>
-<img src="https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/PANDAS-130654?style=for-the-badge&logo=pandas&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/MATPLOTLIB-11557C?style=for-the-badge" height="28"/>
-<img src="https://img.shields.io/badge/SEABORN-4C72B0?style=for-the-badge" height="28"/>
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge" height="28"/>
+  <img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/C-1572B6?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
 </p>
 
-</td>
+### 🤖 AI / Machine Learning
+<p>
+  <img src="https://img.shields.io/badge/MACHINE%20LEARNING-102A43?style=for-the-badge" alt="Machine Learning"/>
+  <img src="https://img.shields.io/badge/DEEP%20LEARNING-FF6F00?style=for-the-badge" alt="Deep Learning"/>
+  <img src="https://img.shields.io/badge/OPENCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
+</p>
 
-<td width="22%" align="center" valign="middle" style="border: none;">
+### 📊 Data Science
+<p>
+  <img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/PANDAS-130654?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/MATPLOTLIB-11557C?style=for-the-badge" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/SEABORN-4C72B0?style=for-the-badge" alt="Seaborn"/>
+</p>
 
-<img src="./assets/mac_sticker.png" width="250" alt="Retro computer sticker"/>
+### 🎨 Frontend
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+</p>
 
-</td>
+### 🗄️ Database
+<p>
+  <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+</p>
 
-</tr>
-</table>
-
-<hr>
+### 🛠️ Tools
+<p>
+  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+</p>
 
 ---
 
