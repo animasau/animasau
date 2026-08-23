@@ -55,56 +55,29 @@
 
 ## 💻 Tech Stack
 
-<p align="center">
-  <img src="./assets/mac_sticker.png" width="250" align="right"/>
+<p align="right">
+  <img src="./assets/mac_sticker.png" width="230"/>
 </p>
 
-### 💻 Languages
+**Languages, frameworks & tools**
+
 <p>
-  <img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/C-1572B6?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://skillicons.dev/icons?i=java,c,python,js,php,html,css,react,git,github,vscode,mysql,opencv,tensorflow" alt="Tech icons"/>
 </p>
 
-### 🤖 AI / Machine Learning
-<p>
-  <img src="https://img.shields.io/badge/MACHINE%20LEARNING-102A43?style=for-the-badge" alt="Machine Learning"/>
-  <img src="https://img.shields.io/badge/DEEP%20LEARNING-FF6F00?style=for-the-badge" alt="Deep Learning"/>
-  <img src="https://img.shields.io/badge/OPENCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
-  <img src="https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
-</p>
+**AI / Machine Learning &nbsp;•&nbsp; Data Science**
 
-### 📊 Data Science
 <p>
-  <img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/PANDAS-130654?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/MATPLOTLIB-11557C?style=for-the-badge" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/SEABORN-4C72B0?style=for-the-badge" alt="Seaborn"/>
-</p>
-
-### 🎨 Frontend
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-</p>
-
-### 🗄️ Database
-<p>
-  <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-</p>
-
-### 🛠️ Tools
-<p>
-  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  <img src="https://img.shields.io/badge/MACHINE%20LEARNING-1f2937?style=flat-square" alt="Machine Learning"/>
+  <img src="https://img.shields.io/badge/DEEP%20LEARNING-FF6F00?style=flat-square" alt="Deep Learning"/>
+  <img src="https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=flat-square" alt="Scikit-Learn"/>
+  <img src="https://img.shields.io/badge/NUMPY-013243?style=flat-square" alt="NumPy"/>
+  <br/>
+  <img src="https://img.shields.io/badge/PANDAS-150458?style=flat-square" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/MATPLOTLIB-11557C?style=flat-square" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/SEABORN-4C72B0?style=flat-square" alt="Seaborn"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square" alt="SQL"/>
+  <img src="https://img.shields.io/badge/JUPYTER-F37626?style=flat-square" alt="Jupyter"/>
 </p>
 
 ---
