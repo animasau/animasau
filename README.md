@@ -55,9 +55,9 @@
 
 ## 💻 Tech Stack
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0" style="border:none;">
 <tr>
-<td valign="top" width="72%">
+<td valign="top" width="65%" style="border:none;">
 
 **Languages, frameworks & tools**
 
@@ -68,22 +68,23 @@
 **AI / Machine Learning &nbsp;•&nbsp; Data Science**
 
 <p>
-  <img src="https://img.shields.io/badge/MACHINE%20LEARNING-1f2937?style=flat-square" alt="Machine Learning"/>
-  <img src="https://img.shields.io/badge/DEEP%20LEARNING-FF6F00?style=flat-square" alt="Deep Learning"/>
-  <img src="https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=flat-square" alt="Scikit-Learn"/>
-  <img src="https://img.shields.io/badge/NUMPY-013243?style=flat-square" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/MACHINE%20LEARNING-1f2937?style=for-the-badge" alt="Machine Learning"/>
+  <img src="https://img.shields.io/badge/DEEP%20LEARNING-FF6F00?style=for-the-badge" alt="Deep Learning"/>
+  <img src="https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn"/>
+  <img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
   <br/>
-  <img src="https://img.shields.io/badge/PANDAS-150458?style=flat-square" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/MATPLOTLIB-11557C?style=flat-square" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/SEABORN-4C72B0?style=flat-square" alt="Seaborn"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square" alt="SQL"/>
-  <img src="https://img.shields.io/badge/JUPYTER-F37626?style=flat-square" alt="Jupyter"/>
+  <img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/MATPLOTLIB-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/SEABORN-4C72B0?style=for-the-badge" alt="Seaborn"/>
+  <br/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
 </p>
 
 </td>
-<td valign="top" width="28%" align="right">
+<td valign="top" width="35%" align="right" style="border:none;">
 
-<img src="./assets/mac_sticker.png" width="220"/>
+<img src="./assets/mac_sticker.png" width="260"/>
 
 </td>
 </tr>
