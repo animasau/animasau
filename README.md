@@ -55,12 +55,14 @@
 
 ## 💻 Tech Stack
 
-<img src="./assets/mac_sticker.png" width="230" align="right"/>
+<table>
+<tr>
+<td valign="top" width="72%">
 
 **Languages, frameworks & tools**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,c,python,js,php,html,css,react,git,github,vscode,mysql,opencv,tensorflow" alt="Tech icons"/>
+  <img src="https://skillicons.dev/icons?i=java,c,python,js,php,html,css,react,git,github,vscode,mysql,opencv,tensorflow&perline=7" alt="Tech icons"/>
 </p>
 
 **AI / Machine Learning &nbsp;•&nbsp; Data Science**
@@ -78,7 +80,14 @@
   <img src="https://img.shields.io/badge/JUPYTER-F37626?style=flat-square" alt="Jupyter"/>
 </p>
 
-<br clear="right"/>
+</td>
+<td valign="top" width="28%" align="right">
+
+<img src="./assets/mac_sticker.png" width="220"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
