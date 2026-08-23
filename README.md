@@ -55,9 +55,7 @@
 
 ## 💻 Tech Stack
 
-<p align="right">
-  <img src="./assets/mac_sticker.png" width="230"/>
-</p>
+<img src="./assets/mac_sticker.png" width="230" align="right"/>
 
 **Languages, frameworks & tools**
 
@@ -79,6 +77,8 @@
   <img src="https://img.shields.io/badge/SQL-336791?style=flat-square" alt="SQL"/>
   <img src="https://img.shields.io/badge/JUPYTER-F37626?style=flat-square" alt="Jupyter"/>
 </p>
+
+<br clear="right"/>
 
 ---
 
