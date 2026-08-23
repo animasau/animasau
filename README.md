@@ -55,14 +55,25 @@
 
 ## 💻 Tech Stack
 
-<table border="0" cellspacing="0" cellpadding="0" style="border:none;">
-<tr>
-<td valign="top" width="65%" style="border:none;">
+<img src="./assets/mac_sticker.png" width="260" align="right"/>
 
 **Languages, frameworks & tools**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,c,python,js,php,html,css,react,git,github,vscode,mysql,opencv,tensorflow&perline=7" alt="Tech icons"/>
+  <img src="https://skillicons.dev/icons?i=java" width="45" alt="Java"/>
+  <img src="https://skillicons.dev/icons?i=c" width="45" alt="C"/>
+  <img src="https://skillicons.dev/icons?i=python" width="45" alt="Python"/>
+  <img src="https://skillicons.dev/icons?i=js" width="45" alt="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=php" width="45" alt="PHP"/>
+  <img src="https://skillicons.dev/icons?i=html" width="45" alt="HTML5"/>
+  <img src="https://skillicons.dev/icons?i=css" width="45" alt="CSS3"/>
+  <img src="https://skillicons.dev/icons?i=react" width="45" alt="React"/>
+  <img src="https://skillicons.dev/icons?i=git" width="45" alt="Git"/>
+  <img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=vscode" width="45" alt="VS Code"/>
+  <img src="https://skillicons.dev/icons?i=mysql" width="45" alt="MySQL"/>
+  <img src="https://skillicons.dev/icons?i=opencv" width="45" alt="OpenCV"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow" width="45" alt="TensorFlow"/>
 </p>
 
 **AI / Machine Learning &nbsp;•&nbsp; Data Science**
@@ -72,23 +83,14 @@
   <img src="https://img.shields.io/badge/DEEP%20LEARNING-FF6F00?style=for-the-badge" alt="Deep Learning"/>
   <img src="https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn"/>
   <img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <br/>
   <img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/MATPLOTLIB-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
   <img src="https://img.shields.io/badge/SEABORN-4C72B0?style=for-the-badge" alt="Seaborn"/>
-  <br/>
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
 </p>
 
-</td>
-<td valign="top" width="35%" align="right" style="border:none;">
-
-<img src="./assets/mac_sticker.png" width="260"/>
-
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 ---
 
