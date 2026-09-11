@@ -1,3 +1,9 @@
+<!-- ✦ MOKA Wishlight -->
+
+<p align="center">
+  <img src="./assets/MOKA_wishlight.jpg" width="700" alt="MOKA wishlight"/>
+</p>
+
 <!-- ✦ Welcome -->
 <p align="center">
 <img src="./assets/welcome_text_centered.png" width="850" alt="Welcome heading"/></p>
