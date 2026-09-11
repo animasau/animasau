@@ -1,7 +1,7 @@
 <!-- ✦ MOKA Wishlight -->
 
 <p align="center">
-  <img src="./assets/MOKA_wishlight.jpg" width="700" alt="MOKA wishlight"/>
+  <img src="./assets/MOKA_wishlight.jpg" width="100%" alt="MOKA wishlight"/>
 </p>
 
 <!-- ✦ Welcome -->
